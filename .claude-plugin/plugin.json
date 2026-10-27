@@ -1,0 +1,7 @@
+{
+  "name": "kiroku-botan",
+  "version": "0.4.1",
+  "author": { "name": "taku3" },
+  "description": "右のペインに生活の記録のボタン（項目は status/生活.md と記録のフックから）を並べる。押せばいまの時刻で記録、「時刻・なし」で時刻を戻す・しなかったと残す",
+  "types": "./types/index.d.ts"
+}

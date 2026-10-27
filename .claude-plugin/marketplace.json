@@ -1,0 +1,5 @@
+{
+  "name": "kiroku-botan",
+  "owner": { "name": "taku3" },
+  "plugins": [{ "name": "kiroku-botan", "source": "./" }]
+}

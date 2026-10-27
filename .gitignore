@@ -1,0 +1,5 @@
+node_modules/
+# エンジンが読み込むたびに置く型（それぞれの PC で作り直される）
+.claude-plugin/types/
+# 作業の記録（本人の中身が入るので、リポには入れない。手元に残す）
+HANDOFF.md
